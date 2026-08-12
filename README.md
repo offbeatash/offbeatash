@@ -40,7 +40,8 @@
 | ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) |
 | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) |
 | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white) | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) |
-| | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) | |
+| | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) | ![ChromaDB](https://img.shields.io/badge/ChromaDB-0052CC?style=for-the-badge&logo=database&logoColor=white) |
+| | ![RAG & GenAI](https://img.shields.io/badge/RAG_%26_GenAI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | |
 
 </div>
 
@@ -49,12 +50,12 @@
 ### 📈 AI & Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=offbeatash&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Ashish Pise Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=offbeatash&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Ashish Pise Languages" />
+  <img src="https://github-readme-stats-nu-eight-67.vercel.app/api?username=offbeatash&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Ashish Pise Stats" />
+  <img src="https://github-readme-stats-nu-eight-67.vercel.app/api/top-langs/?username=offbeatash&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Ashish Pise Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=offbeatash&theme=tokyonight&hide_border=true" alt="Ashish Pise GitHub Streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=offbeatash&theme=tokyonight&hide_border=true" alt="Ashish Pise GitHub Streak" />
 </div>
